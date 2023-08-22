@@ -1,4 +1,4 @@
 /* Debug */
 @import '103-sort_list.scss';
-$sorted_list: sort($list_to_sort);
-@debug "#{$sorted_list}";
+$alphabetically_sorted_list: sort($list_to_sort);
+@debug "#{$alphabetically_sorted_list}";
