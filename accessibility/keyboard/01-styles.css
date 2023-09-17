@@ -697,7 +697,7 @@
       opacity: 0;
     }   
 
-    .card-work .card-title a:focus, .card-work:hover .card-title a {
+    .card-work .card-title {
         opacity: 1;
     }
 
